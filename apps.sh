@@ -13,3 +13,12 @@ brew install --cask zoom
 
 #insomnia
 brew install --cask insomnia
+
+#docker
+brew install docker
+
+#docker compose
+brew install docker-compose
+
+#dbeaver community
+brew install --cask dbeaver-community
