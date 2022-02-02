@@ -22,3 +22,6 @@ brew install docker-compose
 
 #dbeaver community
 brew install --cask dbeaver-community
+
+#clean storage
+brew install --cask omnidisksweeper
