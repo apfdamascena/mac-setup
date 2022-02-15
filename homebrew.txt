@@ -1,0 +1,7 @@
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" && cd && touch .zshrc
+
+// adiciona isso "export PATH=/opt/homebrew/bin:$PATH" nesse arquivo .zshrc
+
+
+dale o comando "source ~/.zshrc" para ativar
+e verifica se deu tudo certo com brew help 

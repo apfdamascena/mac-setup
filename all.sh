@@ -1,4 +1,3 @@
-./homebrew.sh
 ./git.sh
 ./editor.sh
 ./browser.sh
