@@ -37,7 +37,7 @@
     ],
     "editor.rename.enablePreview": false,
     "go.toolsManagement.autoUpdate": true,
-    "editor.tabSize": 2,
+    "editor.tabSize": 4,
     "workbench.tree.indent": 14,
     "sync.gist": "515c1bbf8489d08867ad576a5d196f83"
 }
