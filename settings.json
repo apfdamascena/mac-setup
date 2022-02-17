@@ -1,0 +1,43 @@
+{
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "explorer.compactFolders": false,
+    "editor.renderLineHighlight": "gutter",
+    "eslint.codeActionsOnSave.mode": "all",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+    },
+    "workbench.editor.labelFormat" : "short",
+    "breadcrumbs.enabled": true,
+    "code-runner.runInTerminal": true,
+    "python.languageServer": "Default",
+    "liveServer.settings.donotShowInfoMsg": true,
+
+    "emmet.syntaxProfiles": { "javascript" : "jsx"},
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.colorTheme": "Blueberry dark theme",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "mssql.connections": [
+        {
+            "server": "{{put-server-name-here}}",
+            "database": "{{put-database-name-here}}",
+            "user": "{{put-username-here}}",
+            "password": "{{put-password-here}}"
+        }
+    ],
+    "editor.rename.enablePreview": false,
+    "go.toolsManagement.autoUpdate": true,
+    "editor.tabSize": 2,
+    "workbench.tree.indent": 14,
+    "sync.gist": "515c1bbf8489d08867ad576a5d196f83"
+}
